@@ -17,7 +17,7 @@
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "HRKU-bff75fea-cdc4-4dfa-8138-f0eca980f5da",
             "required": true,
             "value": ""
         },
